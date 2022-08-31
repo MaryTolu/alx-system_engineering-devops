@@ -1,4 +1,0 @@
-#!/bin/bash
-cp -u *.HTML
-cp -u *.html  ../
-cp -rua *.html ../
